@@ -1,4 +1,4 @@
-package ru.mirea.trpp_second_11.entity;
+package ru.mirea.trppsecond11.entity;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import com.opencsv.bean.CsvBindByName;
@@ -6,7 +6,8 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
-import java.util.List;
+import java.math.BigDecimal;
+
 
 /** Сущность устройства. */
 @Getter
